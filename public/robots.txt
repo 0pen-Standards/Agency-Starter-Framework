@@ -6,7 +6,7 @@ Disallow: /api/*
 Disallow: /cms/*
 
 # Host
-Host: https://fresco-sgw.vercel.app
+Host: https://localhost:3000
 
 # Sitemaps
-Sitemap: https://fresco-sgw.vercel.app/sitemap.xml
+Sitemap: https://localhost:3000/sitemap.xml
